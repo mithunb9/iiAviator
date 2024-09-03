@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun</h1>
 <p align="center">I'm a hardworking and passionate student pursuing my Bachelor's degree with honors in computer science, specializing in software development, artificial intelligence, and technology consulting. I am committed to achieving academic excellence while developing practical experience through internships and extracurricular projects. With a strong foundation in computer science principles and a deep interest in emerging technologies, I am excited to contribute to innovative and impactful projects and to continue growing as a professional.</p>
 
-- 🔭 I’m currently working on [Cotes](https://github.com/mithunb9/cotes)
-
-- 👨‍💻 All of my projects are available on [Github](https://github.com/mithunb9?tab=repositories).
-
-- 📫 How to reach me **mithun@mithunb.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mithunb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithunb9" height="30" width="40" /></a>
